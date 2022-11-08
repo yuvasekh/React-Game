@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  width: 325px;
+  text-align: center;
+  border-radius: 16px;
+  overflow: hidden;
+  height: 520px;
+  margin-left: 180px;
+  margin-top: 160px; 
+  background-color: rgb(83, 231, 24);
+ }
+
+ .card2 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  width: 325px;
+  text-align: center;
+  border-radius: 16px;
+  overflow: hidden;
+  height: 520px;
+  margin-left: 1080px;
+  margin-top: -520px;
+  background-color: rgb(243, 26, 26);;
+ }
+ .middle {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  width: 325px;
+  text-align: center;
+  border-radius: 16px;
+  overflow: hidden;
+  height: 520px;
+  margin-left: 630px;
+  margin-top: -520px;
+  background-color: rgb(59, 210, 248);
+ }
+ img{
+  display: none;
+ }
+ #gifid
+ {
+  display: block;
+ }
+ #bcolo
+ {
+  background-color: #0ae93b;
+ }
+ #p1colo
+ {
+ background-color: rgb(243, 26, 26);;
+ }
+ .whole
+ {
+  height: 1020px;
+  background-color: rgb(214, 183, 183);
+  margin-top: -100px;
+ }
+ #myBtn
+ {
+  
+ }
